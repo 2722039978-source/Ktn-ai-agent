@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 数据库文件
+*.db
+
+# 系统文件
+Thumbs.db
